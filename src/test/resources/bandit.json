@@ -1,0 +1,6 @@
+[
+  {
+    "name": "some-dependency",
+    "artifact": "foo-bar:123"
+  }
+]
